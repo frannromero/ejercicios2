@@ -1,0 +1,44 @@
+.main-box {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(245, 245, 245);
+}
+
+.title-one {
+    background-color: lightslategray;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+}
+
+.image {
+    width: 500px;
+    height: 300px;
+    background-image: url(https://i.ytimg.com/vi/ni3LEc3kvas/maxresdefault.jpg);
+    background-size: cover;
+}
+
+.paragraph {
+    line-height: 30px;
+    color: rgb(75, 74, 74);
+}
+
+.span {
+    color:rgb(0, 0, 0);
+}
+
+.title-two {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    height: 30px;
+    background-color: lightslategray;
+    text-align: center;
+    color: white;
+}
+
+.paragraph-two {
+    line-height: 30px;
+    color: rgb(75, 74, 74);
+}
